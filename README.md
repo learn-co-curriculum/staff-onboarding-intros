@@ -12,4 +12,4 @@
 ### Physical intros
 - Introduce yourself to other employees in person (because not everybody reads their emails).
 
-<a href='https://learn.co/lessons/staff-onboarding-intros' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/staff-onboarding-intros' title='Introductions'>Introductions</a> on Learn.co and start learning to code for free.</p>
