@@ -1,4 +1,4 @@
-## Introductions
+# Introductions
 
 ### First Day 
 
