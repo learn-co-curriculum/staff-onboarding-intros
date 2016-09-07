@@ -7,7 +7,7 @@ We're so excited you're here and we want to share the good news with everyone el
 So to start... 
 
 - Learn more about your new coworkers by [reading their bios](https://flatiron.atlassian.net/wiki/display/ER/Team)
-- AFter reading a few bios and getting the gist, create your own page on the [wiki](https://flatiron.atlassian.net/wiki/display/ER/Team)! 
+- After reading a few bios and getting the gist, create your own page on the [wiki](https://flatiron.atlassian.net/wiki/display/ER/Team)! 
 - Once you've created a page, send a link to the page and a photo of yourself to team@flatironschool.com to introduce yourself; please also note what your role is, what team you're working on / who you'll be working with, and what you'll be working on. You **must** do this on your first day!
 
 COMING SOON: Map of Campus
